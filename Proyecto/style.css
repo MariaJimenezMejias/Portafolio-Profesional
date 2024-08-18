@@ -438,3 +438,20 @@ button {
 button:hover {
     background-color: #0a76d8;
 }
+.fa-phone:before {
+    color: purple;
+    content: "\f095";
+}
+.fa-computer:before {
+    color: purple;
+    content: "\e4e5";
+}
+.devicon-oracle-original:before, .devicon-oracle-plain:before {
+    content: "";
+    color: white;
+}
+
+.devicon-express-original-wordmark:before {
+    content: "";
+    color: white;
+}
